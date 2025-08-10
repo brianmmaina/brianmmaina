@@ -12,18 +12,18 @@
 [![Chrome Extension](https://img.shields.io/badge/-Chrome%20Extension-4285F4?logo=googlechrome&logoColor=white)]()
 
 ---
+## <u>Featured Projects</u>
 
-## Featured Projects
-
-| Project | Tech Stack | Description |
-| --- | --- | --- |
-| [**TriLive**](https://github.com/anthonyq7/TriLive) | ![SwiftUI](https://img.shields.io/badge/-SwiftUI-FA7343?logo=swift) ![FastAPI](https://img.shields.io/badge/-FastAPI-009688?logo=fastapi) ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?logo=postgresql) ![Redis](https://img.shields.io/badge/-Redis-DC382D?logo=redis) | Real-time TriMet bus & rail tracking with FastAPI backend + SwiftUI frontend. |
-| [**Cerco**](https://github.com/brianmmaina/cerco) | ![React Native](https://img.shields.io/badge/-React%20Native-61DAFB?logo=react) ![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?logo=firebase) | Boston campus events app with feed, calendar, and map all live. |
-| [**Tab Stream**](https://github.com/brianmmaina/tabstream) | ![Chrome Extension](https://img.shields.io/badge/-Chrome%20Extension-4285F4?logo=googlechrome) ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript) | Finds guitar tabs on YouTube using Gemini AI. |
-| [**Logistik**](https://github.com/brianmmaina/logistik) | ![Java](https://img.shields.io/badge/-Java-007396?logo=java) ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql) | Java-based logistics management app with driver tracking, route updates, and admin dashboard. |
+| Project | Description |
+| --- | --- |
+| **[TriLive](https://github.com/anthonyq7/TriLive)** | Real-time TriMet bus & rail tracking with FastAPI backend + SwiftUI frontend. |
+| **[Cerco](https://github.com/brianmmaina/cerco)** | Boston campus events app with feed, calendar, and map — all live. |
+| **[Tab Stream](https://github.com/brianmmaina/tabstream)** | Finds guitar tabs on YouTube using Gemini AI. |
+| **[Logistik](https://github.com/brianmmaina/logistik)** | Java-based logistics management app with driver tracking, route updates, and admin dashboard. |
 
 ---
 
-## Let’s Connect
+## <u>Let’s Connect</u>
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/brian-maina-860600292/)
 [![Email](https://img.shields.io/badge/-Email-D14836?logo=gmail&logoColor=white)](mailto:brianmaina.mach@gmail.com)
+
