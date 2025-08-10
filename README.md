@@ -17,7 +17,7 @@
 | Project | Description |
 | --- | --- |
 | **[TriLive](https://github.com/anthonyq7/TriLive)** | Real-time TriMet bus & rail tracking with FastAPI backend + SwiftUI frontend. |
-| **[Cerco](https://github.com/brianmmaina/cerco)** | Boston campus events app with feed, calendar, and map — all live. |
+| **[Cerco](https://github.com/brianmmaina/cerco)** | Boston campus events app with feed, calendar, and map all live. |
 | **[Tab Stream](https://github.com/brianmmaina/tabstream)** | Finds guitar tabs on YouTube using Gemini AI. |
 | **[Logistik](https://github.com/brianmmaina/logistik)** | Java-based logistics management app with driver tracking, route updates, and admin dashboard. |
 
