@@ -17,9 +17,11 @@
 | Project | Description |
 | --- | --- |
 | **[TriLive](https://github.com/anthonyq7/TriLive)** | Real-time TriMet bus & rail tracking with FastAPI backend + SwiftUI frontend. |
+| **[QuantSnap](https://github.com/brianmmaina/QuantSnap)** | A professional stock analysis application built with Streamlit and yfinance, featuring real-time market data and quantitative analysis.|
 | **[Cerco](https://github.com/brianmmaina/Cerco-SEA)** | Boston campus events app with feed, calendar, and map all live. |
 | **[Tab Stream](https://github.com/brianmmaina/tabstream)** | Finds guitar tabs on YouTube using Gemini AI. |
 | **[Logistik](https://github.com/brianmmaina/logistik)** | Java-based logistics management app with driver tracking, route updates, and admin dashboard. |
+
 
 ---
 
