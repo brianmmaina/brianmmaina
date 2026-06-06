@@ -1,8 +1,6 @@
 ## Hi, I'm Brian
 
-CS and Economics junior at Boston University. I build backend systems and quantitative tools, with a focus on payments infrastructure, low-latency C++, and ML pipelines. Currently working on a multi-agent trading research platform and an order matching engine on real NASDAQ data.
-
-Previously SWE intern at Portal (EdTech), currently at AdaptX (nonprofit fitness accessibility) and Marintchev Lab (computational biology). Targeting Summer 2027 SWE roles in fintech and backend infrastructure.
+CS and Economics junior at Boston University. Previously SWE intern at Portal (EdTech), currently at AdaptX (nonprofit fitness accessibility) and Marintchev Lab (computational biology). Targeting Summer 2027 SWE roles in fintech and backend infrastructure.
 
 ---
 
