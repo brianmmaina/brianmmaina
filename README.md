@@ -15,7 +15,6 @@ CS and Economics junior at Boston University. Previously SWE intern at AdaptX (n
 [![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white)]()
 [![DigitalOcean](https://img.shields.io/badge/-DigitalOcean-0080FF?logo=digitalocean&logoColor=white)]()
 [![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black)]()
-[![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?logo=pytorch&logoColor=white)]()
 
 ---
 
