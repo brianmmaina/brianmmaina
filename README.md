@@ -30,13 +30,6 @@ CS and Economics junior at Boston University. Previously SWE intern at AdaptX (n
 | **[Project Winston](https://github.com/brianmmaina/project-winston)** | Quantitative trading research platform covering 17 commodity futures and 503 S&P 500 names. Stacked XGBoost/LightGBM classifiers, HMM regime detection, FastAPI + async SQLAlchemy + Redis backend. |
 | **[StatementWrapped](https://github.com/brianmmaina/statement-wrapped)** | AI-powered bank statement analyzer. Multi-bank CSV normalization, LLM categorization, Redis caching. Live at [statement-wrapped.vercel.app](https://statement-wrapped.vercel.app). |
 
---- | --- |
-| **[Project Winston](https://github.com/brianmmaina/project-winston)** | Quantitative trading research platform covering 17 commodity futures and 503 S&P 500 names. Stacked XGBoost/LightGBM classifiers, HMM regime detection, 11-agent reasoning layer with overseer. FastAPI + async SQLAlchemy + Redis backend. |
-| **[Order Matching Engine](https://github.com/brianmmaina/Order_Matching_Machine_C_Project)** | C++17 limit order book matching engine. Replayed 269K LOBSTER NASDAQ messages at 0.5M+ events/sec with a lock-free SPSC queue. 16 GoogleTest cases. |
-| **[StatementWrapped](https://github.com/brianmmaina/statement-wrapped)** | AI-powered bank statement analyzer. Multi-bank CSV normalization, LLM categorization, Redis caching. Live at [statement-wrapped.vercel.app](https://statement-wrapped.vercel.app). |
-| **[TriLive](https://github.com/anthonyq7/TriLive)** | Real-time Portland transit tracking iOS app. FastAPI backend with Redis caching delivering 32x latency reduction. Shipped on the Apple App Store. |
-| **[NutriCheck](https://github.com/brianmmaina/NutriCheck)** | Android barcode scanning app evaluating food products against user medical conditions. Built with a team for CS 411 Software Engineering. |
-
 ---
 
 ## Let's Connect
